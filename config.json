@@ -1,0 +1,8 @@
+{
+  "buy_triggers": {
+    "10000": ["XRPUSDT", 6],
+    "9000": ["ADAUSDT", 6],
+    "8000": ["DOGEUSDT", 6]
+  },
+  "sell_trigger": 12000
+}
