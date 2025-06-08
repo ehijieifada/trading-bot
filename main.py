@@ -22,11 +22,11 @@ sync_time_offset()
 
 # --- Trigger levels ---
 buy_triggers = {
-    101680: ('XRPUSDT', 6),
-    100679: ('ADAUSDT', 6),
-    100677: ('DOGEUSDT', 6),
+    10000: ('XRPUSDT', 6),
+    9000: ('ADAUSDT', 6),
+    8000: ('DOGEUSDT', 6),
 }
-sell_trigger = 104685
+sell_trigger = 12000
 
 # Track which coins have been bought
 triggered_coins = set()
