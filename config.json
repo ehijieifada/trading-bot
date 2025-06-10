@@ -2,7 +2,14 @@
   "buy_triggers": {
     "10000": ["XRPUSDT", 6],
     "9000": ["ADAUSDT", 6],
-    "8000": ["DOGEUSDT", 6]
+    "8000": ["DOGEUSDT", 6],
+    "200001": ["SUIUSDT", 6],
+    "200002": ["PEPEUSDT", 6],
+    "200003": ["TRXUSDT", 6],
+    "200004": ["LINKUSDT", 6],
+    "200005": ["AVAXUSDT", 6],
+    "200006": ["DOTUSDT", 6],
+    "200007": ["LTCUSDT", 6]
   },
-  "sell_trigger": 12000
+  "sell_trigger": 220000
 }
